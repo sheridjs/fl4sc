@@ -1,0 +1,16 @@
+Outline/Ideas:
+Quick explain SimCity and it's terrain.
+Explain purpose
+- It's an interactive tool for visualization and creation
+  of fracal landscapes
+
+
+
+
+
+
+
+Title: 
+
+Abstract:
+The city simulation game, SimCity 3000, by Maxis and Electonic Arts, allows for importing a grayscale heightmap to use as landscape in the game. I have created an interactive tool which allows for easy visualization and generation of fractal images for use with the game.

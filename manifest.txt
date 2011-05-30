@@ -1,0 +1,4 @@
+Main-Class: fl4sc
+Class-Path: jiu.jar
+
+

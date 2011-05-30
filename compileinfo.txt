@@ -1,0 +1,5 @@
+javac -classpath jiu.jar;. fl4sc.java
+
+java -cp jiu.jar;. fl4sc
+
+jar cvfm fl4sc.jar manifest.txt fl4sc.class fl4sc$1.class flstate.class flutil.class flpvline.class mapicon.gif

@@ -1,0 +1,4 @@
+Max Height vertex: 2500
+Min Height vertex: 20
+** Water Height vertex: 250 meters
+** Image Import Scale: 3 meters per gray level
